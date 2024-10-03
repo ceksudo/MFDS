@@ -13,3 +13,8 @@ Mathematical Foundations for Data Science
 - [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ) || [Advanced Linear Algebra: Tools and Applications](https://www.youtube.com/playlist?list=PLoxJTbDttvt4p6zPSy_0zURsJV1kDCqw1)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 - [Math 178: Mathematical Machine Learning](https://canvas.eee.uci.edu/courses/62533) || [Lab Website](https://christopherdavisuci.github.io/UCI-Math-178-S24/intro.html)
+
+# Application
+
+- [Data, Models & Uncertainty in the Natural Sciences](https://www.youtube.com/playlist?list=PL-qedajgGCOH2zWEuhMF7KWYM_kiQtNic)
+- [Introduction to statistical inference for Data Analytics](https://www.youtube.com/playlist?list=PLMc3qo39xMeZBMpLKQF9vwUQqbUsVnwkF)
