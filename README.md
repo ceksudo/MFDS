@@ -10,6 +10,6 @@ Mathematical Foundations for Data Science
 - [ENGR108: Introduction to Matrix Methods](https://stanford.edu/class/engr108/) || [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
 - [ROB 101: Computational Linear Algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2022/)
 - [Introduction to Linear and Matrix Algebra](https://njohnston.ca/publications/introduction-to-linear-and-matrix-algebra/) || [Advanced Linear and Matrix Algebra](https://njohnston.ca/publications/advanced-linear-and-matrix-algebra/)
-- [Linear Algebra Done Right][https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ] || [Advanced Linear Algebra: Tools and Applications](https://www.youtube.com/playlist?list=PLoxJTbDttvt4p6zPSy_0zURsJV1kDCqw1)
+- [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ) || [Advanced Linear Algebra: Tools and Applications](https://www.youtube.com/playlist?list=PLoxJTbDttvt4p6zPSy_0zURsJV1kDCqw1)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 - [Math 178: Mathematical Machine Learning](https://canvas.eee.uci.edu/courses/62533) || [Lab Website](https://christopherdavisuci.github.io/UCI-Math-178-S24/intro.html)
